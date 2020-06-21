@@ -1,7 +1,9 @@
 # Borealis Theme for Kitty
 
-The theme is designed to be easy on the eyes thus reducing the eye strain.
-The aurora borealis served as the inspiration for this theme, with it's teal like colors, mixed with violets, pink, greens, and the dark of the night sky in Alaska.
+The theme is designed to be easy on the eyes thus reducing the eye strain. The
+aurora borealis served as the inspiration for this theme, with it's teal like
+colors, mixed with violets, pink, greens, and the dark of the night sky in
+Alaska.
 
 ## Borealis
 
@@ -11,14 +13,13 @@ The aurora borealis served as the inspiration for this theme, with it's teal lik
 
 1. Download **borealis.conf** from this repo.
 1. Open **kitty.conf** in your favorite text editor.
-1. Add this line in your **kitty.conf**:
-   `import borealis.conf`
+1. Add this line in your **kitty.conf**: `import borealis.conf`
 
 ## _The Font_ used in the screenshots
 
 The font used in the screenshots is [Dank Mono](https://dank.sh/).
 
-## Borealis Theme in other Applications
+## Related Themes
 
-- [VSCode](https://github.com/eckertalex/borealis-vscode)
-- [iTerm](https://github.com/eckertalex/borealis-iterm)
+Visit [Borealis Theme](https://github.com/eckertalex/borealis-theme) to see
+Borealis Theme for other Applications
